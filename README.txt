@@ -1,0 +1,1 @@
+ive made this using my C knowledge and AI
